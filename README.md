@@ -19,5 +19,5 @@ Like this
 <strong>Hi my name is<p>David</p>.Welcome.</strong>
 ```
 
-So we won't use <a> tag to the parent(ul).
+So we won't use <a> tag to the parent <li>.
 Let's see what this means.
